@@ -44,7 +44,7 @@
                             </li>
                             {% endif %} {% endfor %}
                             
-                            {% if page.url != "/" and page.url != "/search" %}
+                            {% if page.search %}
                             <li class="usa-menu-item">
                                 <form action="{{ site.baseurl }}/search" type="GET" style="display: inline-block;">
                                     <input type="text" style="width: 200px;" placeholder="Search" name="q" id="q"></input>

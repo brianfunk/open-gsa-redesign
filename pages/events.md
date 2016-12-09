@@ -3,6 +3,7 @@ layout: page
 title: Events
 permalink: /events/
 image: /assets/img/about.jpg
+search: true
 ---
 
 ## Open Data

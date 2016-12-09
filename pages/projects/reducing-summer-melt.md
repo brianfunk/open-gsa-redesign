@@ -6,6 +6,7 @@ tags: project
 image: /assets/img/project-images/summer-melt.jpg
 image-credit: https://www.flickr.com/photos/jenumfamily
 abstract: /assets/files/reducing-summer-melt.pdf
+search: true
 ---
 ## What is the issue?
 

@@ -5,6 +5,7 @@ permalink: /projects/tsp-enrollment/
 tags: project
 image: /assets/img/project-images/roth-tsp-enrollment.jpg
 abstract: /assets/files/servicemember-tsp-enrollment.pdf
+search: true
 ---
 ## What is the issue?
 
