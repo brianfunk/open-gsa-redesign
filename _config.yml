@@ -1,8 +1,8 @@
 # Site settings
 title: Open GSA
 description: Open source code, data and APIs from GSA.
-baseurl: "/open-gsa" # the subpath of your site, e.g. /blog/
-url: "https://saracope.github.io" # the base hostname & protocol for your site
+baseurl: "/open-gsa-redesign" # the subpath of your site, e.g. /blog/
+url: "https://brianfunk.github.io" # the base hostname & protocol for your site
 logo: /assets/img/gsa-logo-dark.jpg
 feature_image: /assets/img/feature-background.jpg
 
@@ -67,3 +67,5 @@ markdown: kramdown
 include:
   - _navigation.json
 exclude: [node_modules, gulpifle.js, CONTRIBUTING.md, LICENSE.md, README.md]
+
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
