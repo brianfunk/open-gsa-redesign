@@ -1,0 +1,20 @@
+{
+  "name": "open-gsa",
+  "version": "1.0.0",
+  "description": "Open GSA Jekyll template for Federalist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/saracope/open-gsa.git"
+},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.5.2"
+  }
+}

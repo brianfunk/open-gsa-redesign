@@ -1,0 +1,70 @@
+[
+  
+  {
+    "title": "Home",
+    "permalink": "/",
+    "href": "pages/home.md"
+
+    
+
+  },
+  
+  {
+    "title": "Discover Data",
+    "permalink": "/data/",
+    "href": "pages/data.md"
+
+    
+
+  },
+  
+  {
+    "title": "Explore APIs",
+    "permalink": "/api/",
+    "href": "pages/api.md"
+
+    
+
+  },
+  
+  {
+    "title": "Code With Us",
+    "permalink": "/code/",
+    "href": "pages/code.md"
+
+    
+
+  },
+  
+  {
+    "title": "Attend an Event",
+    "permalink": "/events/",
+    "href": "pages/events.md"
+
+    
+
+  },
+  
+  {
+    "title": "",
+    "permalink": "",
+    "href": ""
+
+    
+
+  },
+  
+  {
+    "title": "Project data",
+    "permalink": "",
+    "href": "_data/projects.yml"
+
+    
+
+  },
+  
+  {
+    "title": "Navigation bar data",
+    "href": "_data/navbar.yml"
+  }
+]
