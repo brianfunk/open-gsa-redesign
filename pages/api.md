@@ -3,6 +3,7 @@ layout: page
 title: APIs
 permalink: /api/
 image: /assets/img/about.jpg
+search: true
 ---
 
 ## APIs and Developer Tools

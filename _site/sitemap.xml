@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/open-gsa-redesign/about/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/open-gsa-redesign/api/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/open-gsa-redesign/code/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/open-gsa-redesign/data/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/open-gsa-redesign/events/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/open-gsa-redesign/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/open-gsa-redesign/projects/microloans-for-farmers/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/open-gsa-redesign/projects/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/open-gsa-redesign/projects/reducing-summer-melt/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/open-gsa-redesign/projects/tsp-enrollment/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/open-gsa-redesign/search/</loc>
+    
+  </url>
+  
+  
+  
+  
+  
+</urlset>
