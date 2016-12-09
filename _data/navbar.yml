@@ -9,19 +9,19 @@ assigned:
         text: Discover Data
         href: pages/data.md
         permalink: /data/
-        show_in_menu: true
+        show_in_menu: false
         show_in_footer: false
     -
         text: Explore APIs
         href: pages/api.md
         permalink: /api/
-        show_in_menu: true
+        show_in_menu: false
         show_in_footer: false
     -
         text: Code With Us
         href: pages/code.md
         permalink: /code/
-        show_in_menu: true
+        show_in_menu: false
         show_in_footer: false
     -
         text: Attend an Event
