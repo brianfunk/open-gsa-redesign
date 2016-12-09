@@ -1,8 +1,6 @@
 ---
 layout: search
-title: Search
 permalink: /search/
-image: /assets/img/about.jpg
 search: false
 ---
 

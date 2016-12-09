@@ -24,8 +24,22 @@ function getSearch(q){
       
         console.log('processResult');
         
-        console.log('data : ' + JSON.stringify(data));
-     
+        //console.log('data : ' + JSON.stringify(data));
+        
+        
+        //$('#search-results').text( JSON.stringify(data) );
+        
+        
+        console.log('data.items.length : ' + data.items.length );
+        
+        for (var i = 0; i < data.items.length; i++){
+            
+            
+            $('#search-results').append( '<p><strong>'+data.items[i].name+'</strong><br/><em>'+data.items[i].path+'</em><br/><a href="'+data.items[i].repository.html_url+'">'+data.items[i].repository.html_url+'</a></p>' );
+            
+            console.log('data.items[i].repository.html_url : ' + data.items[i].repository.html_url );
+            
+        }
     });
 }
 
